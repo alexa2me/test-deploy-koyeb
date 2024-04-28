@@ -1,4 +1,4 @@
-PROJECT_NAME="test-deploy-koyeb"
+PROJECT_NAME="test_deploy_koyeb"
 
 ###
 # Dependencies section
